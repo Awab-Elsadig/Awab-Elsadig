@@ -26,6 +26,6 @@ I build high-performance web applications and explore the intersection of commun
 ---
 
 ### 📫 Let's Connect
-- 💼 [LinkedIn](https://eg.linkedin.com/in/awab-elsadig)
-- 📧 [Email](mailto:elsadigawab@gmail.com)
-- 🌍 [Portfolio](https://awab.io) *(if live)*
+
+- 💼 **LinkedIn:** [linkedin.com/in/awab-elsadig](https://eg.linkedin.com/in/awab-elsadig)
+- 📧 **Email:** [elsadigawab@gmail.com](mailto:elsadigawab@gmail.com)
