@@ -7,21 +7,14 @@ I build high-performance web applications and explore the intersection of commun
 
 ### 🛠️ My Tech Stack
 
-**Frontend**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**Frontend & Design**
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,figma,framer)](https://skillicons.dev)
 
-**Backend & Database**
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+**Backend & Cloud**
+[![My Skills](https://skillicons.dev/icons?i=nestjs,ts,supabase,postgres,vercel,githubactions)](https://skillicons.dev)
 
-**Engineering Tools**
-![MATLAB](https://img.shields.io/badge/MATLAB-ED1C24?style=for-the-badge&logo=mathworks&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
+**Engineering & Systems**
+[![My Skills](https://skillicons.dev/icons?i=cpp,matlab,linux,docker,postman)](https://skillicons.dev)
 ---
 
 ### 🚀 Featured Projects
