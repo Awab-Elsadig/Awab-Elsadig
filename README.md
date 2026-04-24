@@ -7,14 +7,14 @@ I build high-performance web applications and explore the intersection of commun
 
 ### 🛠️ My Tech Stack
 
-**Frontend & Design**
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,figma,framer)](https://skillicons.dev)
+#### Frontend & Design
+[![Frontend](https://skillicons.dev/icons?i=nextjs,react,tailwind,figma,framer)](https://skillicons.dev)
 
-**Backend & Cloud**
-[![My Skills](https://skillicons.dev/icons?i=nestjs,ts,supabase,postgres,vercel,githubactions)](https://skillicons.dev)
+#### Backend & Cloud
+[![Backend](https://skillicons.dev/icons?i=nestjs,ts,supabase,postgres,vercel,githubactions)](https://skillicons.dev)
 
-**Engineering & Systems**
-[![My Skills](https://skillicons.dev/icons?i=cpp,matlab,linux,docker,postman)](https://skillicons.dev)
+#### Engineering & Systems
+[![Engineering](https://skillicons.dev/icons?i=cpp,matlab,linux,docker,postman)](https://skillicons.dev)
 ---
 
 ### 🚀 Featured Projects
