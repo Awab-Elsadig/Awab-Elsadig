@@ -25,12 +25,6 @@ I build high-performance web applications and explore the intersection of commun
 
 ---
 
-### 📊 GitHub Stats
-![Awab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Awab-Elsadig&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Awab-Elsadig&layout=compact&theme=tokyonight)
-
----
-
 ### 📫 Let's Connect
 - 💼 [LinkedIn](https://eg.linkedin.com/in/awab-elsadig)
 - 📧 [Email](mailto:elsadigawab@gmail.com)
